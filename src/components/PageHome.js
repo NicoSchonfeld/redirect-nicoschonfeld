@@ -28,6 +28,13 @@ export default function PageHome() {
               <div className="containerRedes">
                 <a
                   className="btn"
+                  href="https://nsfrontend.vercel.app"
+                  target={"_blank"}
+                >
+                  Cursos
+                </a>
+                <a
+                  className="btn"
                   href="https://nicoschonfeld.vercel.app"
                   target={"_blank"}
                 >
