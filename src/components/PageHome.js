@@ -65,8 +65,6 @@ export default function PageHome() {
                   Instagram
                 </a>
               </div>
-
-              <p className="email">nicoschonfeld88@gmail.com</p>
             </div>
           </main>
         </>
