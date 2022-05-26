@@ -7,10 +7,6 @@ export default function Loading() {
       <section className="section">
         <div className="wrapper">
           <img src={Logo} alt={"Logo Nico Schönfeld"} />
-
-          <p className="by">
-            By <span>NicoSchönfeld</span>
-          </p>
         </div>
       </section>
     </>
